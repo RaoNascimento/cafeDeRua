@@ -1,63 +1,48 @@
 <footer>
-			
+
 			<div class="row row-cinza-claro">
-				
+
 				<div class="container">
-					
+
 					<div class="row">
-						
+
 						<div class="col-md-2 text-center hidden-xs">
-							
-							<img class="logotipo" src="img/orlando-logo.png" alt="Logotipo">
+
+							<img class="logotipo" src="img/cafe.jpg" height= "120px" width= "75% alt="Logotipo">
 
 						</div>
 						<div class="col-md-10">
-							
+
 							<div class="row row-cols">
-								<div class="col-md-4 col-popular-post hidden-xs">
-									
-									<h4>POPULAR POSTS</h4>
 
-									<ul class="list-unstyled">
-										<li>
-											<h5>Neque porro quisquam est, quister.</h5>
-											<time>January 01, 2016</time>
-										</li>
-										<li>
-											<h5>Neque porro quisquam est, quister.</h5>
-											<time>January 01, 2016</time>
-										</li>
 
-									</ul>
-
-								</div>
 								<div class="col-md-4 col-links hidden-xs">
-									
+
 									<h4>LINKS</h4>
 
 									<ul class="list-unstyled">
-										<li><a href="#"><i class="fa fa-angle-right"></i>Tickets</a></li>
-										<li><a href="#"><i class="fa fa-angle-right"></i>News</a></li>
-										<li><a href="#"><i class="fa fa-angle-right"></i>Schedule</a></li>
+										<li><a href="#"><i class="fa fa-angle-right"></i>Coletivando</a></li>
+										<li><a href="#"><i class="fa fa-angle-right"></i>Eventos</a></li>
+										<li><a href="#"><i class="fa fa-angle-right"></i>Fotos</a></li>
 									</ul>
 
 								</div>
 								<div class="col-md-4 col-get-in-touch">
-									
-									<h4 class="hidden-xs">GET IN TOUCH</h4>
+
+									<h4 class="hidden-xs">Contato</h4>
 
 									<address class="hidden-xs">
-										<i class="fa fa-map-marker"></i> <span>618 E. South Street, Suite 510<br/>Orlando, FL 32801</span>
+										<i class="fa fa-map-marker"></i> <span></span>
 									</address>
 
-									<p class="hidden-xs"><a href="tel:1855ORLCITY"><i class="fa fa-phone"></i>1.855.ORL.CITY</a></p>
-									
+									<p class="hidden-xs"><a href="tel:1"><i class="fa fa-phone"></i></a></p>
+
 									<div class="row-fluid visible-xs">
 										<div class="col-xs-6">
-											<a href="#" class="btn btn-footer "><i class="fa fa-map-marker"></i>Location</a>
+											<a href="#" class="btn btn-footer "><i class="fa fa-map-marker"></i></a>
 										</div>
 										<div class="col-xs-6">
-											<a href="#" class="btn btn-footer"><i class="fa fa-phone"></i>Call</a>
+											<a href="#" class="btn btn-footer"><i class="fa fa-phone"></i>Contato:</a>
 										</div>
 									</div>
 
@@ -72,7 +57,7 @@
 											<a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
 										</li>
 										<li>
-											<a href="#" target="_blank"><i class="fa fa-pinterest-p"></i></a>
+											<a href="#" target="_blank"><i class= "fa fa-whatsapp"></i></a>
 										</li>
 										<li class="page-up">
 											<a href="#" id="page-up"><i class="fa fa-chevron-up"></i></a>
@@ -91,11 +76,11 @@
 			</div>
 
 			<div class="row row-cinza-escuro">
-				
+
 				<div class="container copyright-mobile">
-					
-					<p class="pull-left">Copyright © Orlando City Soccer 2016. All rights reserved.</p>
-					<p class="pull-right text-roxo">Created by HCODE in Udemy</p>
+
+					<p class="pull-left">Copyright © Café de Rua. All rights reserved.</p>
+					<p class="pull-right text-roxo"></p>
 
 				</div>
 
